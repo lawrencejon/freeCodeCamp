@@ -2,7 +2,7 @@
 title: Img Src Attribute
 ---
 ## Img Src Attribute
-The `<img src>` attribute refers to the source of the image you want to display. The `img` tag will not display an image without the `src` attribute. However, if you set the source to the location of the image, you can display any image.
+The `<img src>` attribute refers to the source of the image you want to display. The `img` tag will not display an image without the `src` attribute. However, if you set the source to the location of the image, you can display any image your browser supports.
 
 There is an image of the freeCodeCamp Logo located at `https://avatars0.githubusercontent.com/u/9892522?v=4&s=400`
 
