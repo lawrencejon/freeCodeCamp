@@ -100,3 +100,4 @@ You can combine the previous two pieces of box-shadows using a comma to get mult
 
 #### More Information
 * Docs: [MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+* [CSS Borders](https://www.w3schools.com/css/css_border.asp)
