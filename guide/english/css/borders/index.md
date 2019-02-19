@@ -148,4 +148,5 @@ h5 { border: dotted; }
 ### More Information:
 
 - [MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/CSS/border)
+- [CSS Borders](https://www.w3schools.com/css/css_border.asp)
 - [CSS3 Border Radius](https://guide.freecodecamp.org/css/css3-borders-rounded-corners)
